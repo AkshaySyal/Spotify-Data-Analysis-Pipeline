@@ -23,10 +23,7 @@ This project showcases a full end-to-end data pipeline built on AWS to store, tr
 
 ## Tableau Dashboard
 
-<img width="880" alt="Spotify Tableau Dashboard" src="https://github.com/sabarishsubramaniam2000/Spotify-Data-Pipeline-And-Analysis/assets/84472301/2b3ba5db-8ec5-48e9-8144-12b3b5bad222">
-
 <img width="885" height="530" alt="Screenshot 2025-07-12 at 5 16 33 PM" src="https://github.com/user-attachments/assets/582c841e-5b53-4f22-8a35-d7cb4999075f" />
-
 
 - The dashboard delivers a clear summary of Spotify data insights, highlighting key patterns in artist popularity and music genre trends.  
 - It showcases the **top 10 artists**, featuring their popularity scores and follower counts.  
