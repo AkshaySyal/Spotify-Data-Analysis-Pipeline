@@ -23,16 +23,14 @@ This project showcases a full end-to-end data pipeline built on AWS to store, tr
 
 ## Tableau Dashboard
 
-https://public.tableau.com/app/profile/sabarish.subramaniam3258/viz/SpotifyDataAnalysis_17158893218970/SpotifyDataAnalysisDashboard
-
 <img width="880" alt="Spotify Tableau Dashboard" src="https://github.com/sabarishsubramaniam2000/Spotify-Data-Pipeline-And-Analysis/assets/84472301/2b3ba5db-8ec5-48e9-8144-12b3b5bad222">
 
-- The dashboard presents a concise overview of Spotify data insights, encompassing key aspects of artist popularity and music genre trends. It features the top 10 artists, showcasing their popularity metrics and followers. 
-- Additionally, it ranks the top 15 genres by their popularity on Spotify, providing insight into listener preferences. 
-- The dashboard also compares the prevalence of explicit and non-explicit songs and explores the relationship between artist popularity and follower count. 
-- Lastly, it highlights the top 10 genres with the highest number of songs available, offering a glimpse into the breadth of musical content within each genre. 
-- Overall, the dashboard provides a comprehensive snapshot of music consumption patterns and trends on Spotify.
+- The dashboard delivers a clear summary of Spotify data insights, highlighting key patterns in artist popularity and music genre trends.  
+- It showcases the **top 10 artists**, featuring their popularity scores and follower counts.  
+- It also ranks the **top 15 music genres** by popularity, offering a view into audience preferences on the platform.  
+- The dashboard compares the distribution of **explicit vs. non-explicit songs** and examines how artist popularity relates to their follower numbers.  
+- Additionally, it spotlights the **top 10 genres** with the largest song counts, giving an overview of the variety within each category.  
+Overall, the dashboard offers a well-rounded look at Spotify’s music trends and listener behaviors.
 
 ## Dataset
-
-The dataset used for this project can be found on Kaggle: [Spotify Dataset 2023](https://www.kaggle.com/datasets/tonygordonjr/spotify-dataset-2023).
+The dataset used in this project is publicly available on Kaggle: [Spotify Dataset 2023](https://www.kaggle.com/datasets/tonygordonjr/spotify-dataset-2023).
